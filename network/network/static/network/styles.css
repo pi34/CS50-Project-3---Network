@@ -1,0 +1,27 @@
+#app {
+    padding: 20px
+}
+
+textarea {
+    width: 100%;
+    height: 100px
+}
+
+.box {
+    border: 1px solid grey;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 6px;
+}
+
+.margin {
+    margin: 10px
+}
+
+h4 {
+    display: inline
+}
+
+#profile {
+    font-weight: bold;
+}
